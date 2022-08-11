@@ -1,64 +1,53 @@
 {
-  "peliculas": [
-    {
-      "id": 1,
-      "nombre": "El sexto sentido",
-      "director": "M. Night Shyamalan",
-      "clasificacion": "Drama"
-    },
-    {
-      "id": 2,
-      "nombre": "Pulp Fiction",
-      "director": "Tarantino",
-      "clasificacion": "Acción"
-    },
-    {
-      "id": 3,
-      "nombre": "Todo Sobre Mi Madre",
-      "director": "Almodobar",
-      "clasificacion": "Drama"
-    },
-    {
-      "id": 4,
-      "nombre": "300",
-      "director": "Zack Snyder",
-      "clasificacion": "Acción"
-    },
-    {
-      "id": 5,
-      "nombre": "El silencio de los corderos",
-      "director": "Jonathan Demme",
-      "clasificacion": "Drama"
-    },
-    {
-      "id": 6,
-      "nombre": "Forrest Gump",
-      "director": "Robert Zemeckis",
-      "clasificacion": "Comedia"
-    },
-    {
-      "id": 7,
-      "nombre": "Las Hurdes",
-      "director": "Luis Buñuel",
-      "clasificacion": "Documental"
-    }
-  ],
-  "clasificaciones": [
-    {
-      "nombre": "Drama",
-      "id": 1
-    },
-    {
-      "nombre": "Comedia",
-      "id": 2
-    },
-    {
-      "nombre": "Documental",
-      "id": 3
-    },
-    {
-      "nombre": "Acción",
-      "id": 4
-    }
-  ]
+    "peliculas": [
+      {
+        "id": 100,
+        "nombre IPS": "Cartagena central",
+        "codigo IPS": 101100,
+        "cie10": 4400,
+        "tipo solicitud": "Anexo 2"
+      },
+      {
+        "id": 101,
+        "nombre IPS": "Cartagena occidental",
+        "codigo IPS": 101102,
+        "cie10": 4401,
+        "tipo solicitud": "Anexo 2"
+      },
+      {
+        "id": 103,
+        "nombre IPS": "Cartagena oriental",
+        "codigo IPS": 101103,
+        "cie10": 4402,
+        "tipo solicitud": "Anexo 2"
+      },
+      {
+        "id": 104,
+        "nombre IPS": "Cartagena sur",
+        "codigo IPS": 101104,
+        "cie10": 4403,
+        "tipo solicitud": "Anexo 2"
+      },
+      {
+        "id": 105,
+        "nombre IPS": "Cartagena norte",
+        "codigo IPS": 101101,
+        "cie10": 4404,
+        "tipo solicitud": "Anexo 3"
+      },
+      {
+        "id": 106,
+        "nombre IPS": "Cartagena central",
+        "codigo IPS": 101100,
+        "cie10": 4405,
+        "tipo solicitud": "Anexo 2"
+      },
+      {
+        "id": 107,
+        "nombre IPS": "Cartagena norte",
+        "codigo IPS": 101101,
+        "cie10": 4406,
+        "tipo solicitud": "Anexo 3"
+      }
+    ]
 }
