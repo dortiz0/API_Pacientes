@@ -2,52 +2,28 @@
     "peliculas": [
       {
         "id": 100,
-        "nombre IPS": "Cartagena central",
-        "codigo IPS": 101100,
-        "cie10": 4400,
-        "tipo solicitud": "Anexo 2"
+        "codigo IPS": 101100123456
+        
       },
       {
         "id": 101,
-        "nombre IPS": "Cartagena occidental",
-        "codigo IPS": 101102,
-        "cie10": 4401,
-        "tipo solicitud": "Anexo 2"
+        "codigo IPS": 101100123789
+        
+      },
+      {
+        "id": 102,
+        "codigo IPS": 123100123456
+        
       },
       {
         "id": 103,
-        "nombre IPS": "Cartagena oriental",
-        "codigo IPS": 101103,
-        "cie10": 4402,
-        "tipo solicitud": "Anexo 2"
+        "codigo IPS": 456100123456
+        
       },
       {
         "id": 104,
-        "nombre IPS": "Cartagena sur",
-        "codigo IPS": 101104,
-        "cie10": 4403,
-        "tipo solicitud": "Anexo 2"
-      },
-      {
-        "id": 105,
-        "nombre IPS": "Cartagena norte",
-        "codigo IPS": 101101,
-        "cie10": 4404,
-        "tipo solicitud": "Anexo 3"
-      },
-      {
-        "id": 106,
-        "nombre IPS": "Cartagena central",
-        "codigo IPS": 101100,
-        "cie10": 4405,
-        "tipo solicitud": "Anexo 2"
-      },
-      {
-        "id": 107,
-        "nombre IPS": "Cartagena norte",
-        "codigo IPS": 101101,
-        "cie10": 4406,
-        "tipo solicitud": "Anexo 3"
+        "codigo IPS": 11100123411
+        
       }
-    ]
+       ]
 }
